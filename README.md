@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Mona Ni  
 
-<!--
-**Monanihao/Monanihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Student in **Human-Centred Data Science** @ University of Toronto  
+📊 Passionate about **data analytics, strategy, and financial services**  
+💻 Skilled in SQL, Python, R, Tableau, Power BI, and Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Featured Projects
+- 🏠 [Housing Prices in California](https://github.com/Monanihao/Projects/tree/main/Housing_Prices_California)  
+- 🎬 [Movie Revenue Estimation](https://github.com/Monanihao/Projects/tree/main/Movie_Revenue_Estimation)  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python · R · SQL  
+**Libraries:** Pandas · NumPy · Scikit-learn · ggplot2  
+**Tools:** Jupyter Notebooks · RStudio · Tableau · Power BI · Git  
+
+---
+
+🌐 [LinkedIn](https://linkedin.com/in/hao-mona-ni) | 📂 [Projects Repo](https://github.com/Monanihao/Projects)  
+✨ Always learning, always building.
