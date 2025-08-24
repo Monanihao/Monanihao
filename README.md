@@ -17,6 +17,14 @@
 **Libraries:** Pandas · NumPy · Scikit-learn · ggplot2  
 **Tools:** Jupyter Notebooks · RStudio · Tableau · Power BI · Git  
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 🌐 [LinkedIn](https://linkedin.com/in/hao-mona-ni) | 📂 [Projects Repo](https://github.com/Monanihao/Projects)  
