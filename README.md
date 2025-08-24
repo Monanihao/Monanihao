@@ -29,10 +29,4 @@
 
 🌐 [LinkedIn](https://linkedin.com/in/hao-mona-ni) | 📂 [Projects Repo](https://github.com/Monanihao/Projects)  
 ✨ Always learning, always building.
-## 🛠 Tech Stack  
 
-## 📊 GitHub Stats  
-
-![Mona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monanihao&show_icons=true&theme=default&hide_title=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monanihao&layout=compact&theme=default)
