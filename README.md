@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Mona Ni  
+# 👋 Hi, I’m Mona (Hao) Ni  
 
-🎓 Graduate Student in **Human-Centred Data Science** @ University of Toronto  
+🎓 Graduate Student in **Human Centred Data Science** @ University of Toronto  
 📊 Passionate about **data analytics, strategy, and financial services**  
 💻 Skilled in SQL, Python, R, Tableau, Power BI, and Machine Learning  
 
